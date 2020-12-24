@@ -82,3 +82,5 @@ kubectl get pods -n staging
 ```
 terraform destroy
 ```
+
+[Deploy Kubernetes Load Balancer Service with Terraform](https://google.qwiklabs.com/focuses/1205?parent=catalog)
